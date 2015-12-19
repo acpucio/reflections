@@ -1,2 +1,8 @@
 Whatt happens when you initialize a repository? Why do you need to do it?	
      it loads meta data.  no meta data no git tracking functionality.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+    staging area is functionally between the working directory and the repository.  It allows a user to reconsider adding stuff to the repository?
+
