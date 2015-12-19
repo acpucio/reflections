@@ -6,3 +6,9 @@ How is the staging area different from the working directory and the repository?
 
     staging area is functionally between the working directory and the repository.  It allows a user to reconsider adding stuff to the repository?
 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	This is a place to check.  A pause to look at what you're committing before
+  	a change happens
+
