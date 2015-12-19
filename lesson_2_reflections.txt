@@ -18,4 +18,9 @@ What are some situations when branches would be helpful in keeping your history 
 	It's good when you want to try something that you're not sure will work
  	but you want to keep track of working or legitimate code.
 
+How do the diagrams help you visualize the branch structure?
+
+	Personally, the diagrams abstract out alot of the worded noise.
+	The shapes are easier to grasps, along with picking out relationships 
+	between the shapes.
 
