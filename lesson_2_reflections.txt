@@ -1,0 +1,2 @@
+Whatt happens when you initialize a repository? Why do you need to do it?	
+     it loads meta data.  no meta data no git tracking functionality.
