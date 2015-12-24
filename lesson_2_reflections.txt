@@ -24,3 +24,12 @@ How do the diagrams help you visualize the branch structure?
 	The shapes are easier to grasps, along with picking out relationships 
 	between the shapes.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	branches and changes from branches should appear on a merged checkeout.  The 
+	Diagram helps to make more sense
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	Pros : makes it easier
+	Cons : could get confusing if you make a mistake, and a commit happens
+		fortunately we can fix this in the resulting source code.
