@@ -18,7 +18,10 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    With this copy of last known state of the remote, you can see
+    if the remote had changed.  You need to know this so changes from
+    the remote don't get clobbered from local or changes from local
+    don't clobber remote.    
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
