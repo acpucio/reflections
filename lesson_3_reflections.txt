@@ -33,5 +33,10 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    If you were wanting to try major revisions locally, you would want to
+    make changes in a seperate branch rather than directly on master.  Also
+    master may be production code.  You don't want to break master.
+
+    But it's easier to push and pull directly on master for sure, but there's 
+    risk involved.
 
